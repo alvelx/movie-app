@@ -168,7 +168,7 @@ Install dependencies
   npm install
 ```
 
-Start the server
+Start the App
 
 ```bash
   npx expo start
