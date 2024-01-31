@@ -145,9 +145,8 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots :camera_flash:
 
-![Movie Details](./assets/MovieDetails.png)
-![Movie Search](./assets/MovieSearch.png)
-
+<img src="./assets/MovieDetails.png" alt="Movies Details" width="100" height="200" />
+<img src="./assets/MovieSearch.png" alt="Movies Search" width="100" height="200" />
 
 ## Run Locally :floppy_disk:
 
